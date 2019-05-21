@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+#item-list {
+    display: inline-block;
+    text-align: left;
+}
+
+#person-table {
+    margin: 0 auto;
+}
